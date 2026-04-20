@@ -14,4 +14,3 @@ console.log(typeof price);
 console.log(typeof(big));
 
 
-//2.String
